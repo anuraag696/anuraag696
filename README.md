@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a front-end developer intern at CodeBucket Solutions Pvt. Ltd.<br><br>🌱 I’m currently mastering Front-end gaining skills in React.js<br><br>👨‍💻 All of my projects are available at https://anuraag696.github.io/Portfolio/<br><br>💬 Ask me about html, css, javascript<br><br>📫 How to reach me anuraaggupta2004@gmail.com<br><br>⚡ Fun fact I’m not just a tech-savvy multitasker—I’ve also been the lead actor in an award-winning short film! 🎬✨ Coding by day, starring on screen by night!
+🔭 I’m currently working as a front-end developer intern at CodeBucket Solutions Pvt. Ltd.<br><br>🌱 I’m currently mastering Front-end gaining skills in React.js<br><br>👨‍💻 All of my projects are available at [https://anuraag696.github.io/Portfolio](https://anuraag-gupta-portfolio.netlify.app/)/<br><br>💬 Ask me about html, css, javascript<br><br>📫 How to reach me anuraaggupta2004@gmail.com<br><br>⚡ Fun fact I’m not just a tech-savvy multitasker—I’ve also been the lead actor in an award-winning short film! 🎬✨ Coding by day, starring on screen by night!
 
 
 ## 🌐 Socials:
