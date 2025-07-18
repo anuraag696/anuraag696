@@ -3,6 +3,9 @@
 
 
 ## 🌐 Socials:
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=scriptzstarling&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anuraag.gupta.737) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anuraag696) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anuraag-gupta-a4877527a) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/anuraaggupta2004) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Anuraag-Gupta-37) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Soft_Lifeguard_6100) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Anuraag2004) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anuraaggupta2004@gmail.com) 
 
 # 💻 Tech Stack:
